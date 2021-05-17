@@ -1,5 +1,5 @@
-package com.flash.servletDemo;
 
+package com.flash.servletDemo;
 import java.io.IOException;
 import java.io.PrintWriter;
 
